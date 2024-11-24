@@ -2,6 +2,8 @@
 
 A SwiftUI library for creating GitHub-style contribution graphs for iOS, macOS, and watchOS apps.
 
+![ContributionGraph](/.github/image.webp)
+
 ## Features
 
 - Customizable appearance (colors, size, spacing, corner radius)
